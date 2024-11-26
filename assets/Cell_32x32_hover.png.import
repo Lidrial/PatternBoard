@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d1d3037ypft3d"
-path="res://.godot/imported/Case.png-4daa9c74756ea899ccad5a43931b9ea6.ctex"
+uid="uid://cg0bpbdjw3sg6"
+path="res://.godot/imported/Cell_32x32_hover.png-493339577b7e7c23eaa89e80120b82ab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Case.png"
-dest_files=["res://.godot/imported/Case.png-4daa9c74756ea899ccad5a43931b9ea6.ctex"]
+source_file="res://assets/Cell_32x32_hover.png"
+dest_files=["res://.godot/imported/Cell_32x32_hover.png-493339577b7e7c23eaa89e80120b82ab.ctex"]
 
 [params]
 
